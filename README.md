@@ -21,13 +21,13 @@ Python | Pandas | NumPy | Matplotlib | SQL
 ## 📷 Visualizations
 
 ### Sales by Region
-![Region](images/region_sales.png)
+![Region](image1.png.png)
 
 ### Sales by Category
-![Category](images/category_sales.png)
+![Category](image2.png.png)
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](image3.png.png)
 
 ## 💡 Business Impact
 - Helps identify high-performing regions
