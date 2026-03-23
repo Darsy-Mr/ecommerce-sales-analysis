@@ -21,7 +21,7 @@ Python | Pandas | NumPy | Matplotlib | SQL
 ## 📷 Visualizations
 
 ### Sales by Region
-![Region](image1.png.png)
+![Region](images/image1.png.png)
 
 ### Sales by Category
 ![Category](image2.png.png)
